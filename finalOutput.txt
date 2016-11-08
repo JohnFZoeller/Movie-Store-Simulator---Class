@@ -1,0 +1,136 @@
+invalid movie entry
+invalid movie entry
+
+----------COMEDIES----------
+Annie Hall 1977 - In Stock : 10
+Fargo 1996 - In Stock : 10
+National Lampoon's Animal House 1978 - In Stock : 10
+Pirates of the Caribbean 2003 - In Stock : 10
+Sleepless in Seattle 1993 - In Stock : 10
+When Harry Met Sally 1989 - In Stock : 10
+You've Got Mail 1998 - In Stock : 10
+
+
+----------DRAMAS----------
+Barry Levinson Good Morning Vietnam - In Stock : 10
+Clint Eastwood Unforgiven - In Stock : 10
+Gus Van Sant Good Will Hunting - In Stock : 10
+Jonathan Demme Silence of the Lambs - In Stock : 10
+Nancy Savoca Dogfight - In Stock : 10
+Phillippe De Broca King of Hearts - In Stock : 10
+Steven Spielberg Schindler's List - In Stock : 10
+
+
+----------CLASSICS----------
+1938 9 Cary Grant - In Stock : 10
+1938 9 Katherine Hepburn - In Stock : 10
+1939 2 Clark Gable - In Stock : 10
+1939 2 Vivien Leigh - In Stock : 10
+1939 7 Judy Garland - In Stock : 10
+1940 5 Cary Grant - In Stock : 10
+1940 5 Katherine Hepburn - In Stock : 10
+1941 10 Humphrey Bogart - In Stock : 10
+1942 8 Humphrey Bogart - In Stock : 10
+1942 8 Ingrid Bergman - In Stock : 10
+1946 11 Donna Reed - In Stock : 10
+1946 11 James Steward - In Stock : 10
+1971 2 Malcolm McDowell - In Stock : 10
+1971 3 Ruth Gordon - In Stock : 10
+
+
+----------Mouse Minnie - 1000 Transaction history ----------
+
+----------Frog Freddie - 5000 Transaction history ----------
+
+----------Wacky Wally - 8000 Transaction history ----------
+
+Movie does not exist
+Out of Stock
+Customer does not exist
+Movie does not exist
+Out of Stock
+Out of Stock
+Out of Stock
+Out of Stock
+Movie does not exist
+Out of Stock
+----------COMEDIES----------
+Annie Hall 1977 - In Stock : 9
+Fargo 1996 - In Stock : 9
+National Lampoon's Animal House 1978 - In Stock : 9
+Pirates of the Caribbean 2003 - In Stock : 10
+Sleepless in Seattle 1993 - In Stock : 9
+When Harry Met Sally 1989 - In Stock : 9
+You've Got Mail 1998 - In Stock : 9
+
+
+----------DRAMAS----------
+Barry Levinson Good Morning Vietnam - In Stock : 9
+Clint Eastwood Unforgiven - In Stock : 9
+Gus Van Sant Good Will Hunting - In Stock : 9
+Jonathan Demme Silence of the Lambs - In Stock : 9
+Nancy Savoca Dogfight - In Stock : 8
+Phillippe De Broca King of Hearts - In Stock : 9
+Steven Spielberg Schindler's List - In Stock : 9
+
+
+----------CLASSICS----------
+1938 9 Cary Grant - In Stock : 9
+1938 9 Katherine Hepburn - In Stock : 10
+1939 2 Clark Gable - In Stock : 10
+1939 2 Vivien Leigh - In Stock : 10
+1939 7 Judy Garland - In Stock : 10
+1940 5 Cary Grant - In Stock : 9
+1940 5 Katherine Hepburn - In Stock : 9
+1941 10 Humphrey Bogart - In Stock : 9
+1942 8 Humphrey Bogart - In Stock : 10
+1942 8 Ingrid Bergman - In Stock : 10
+1946 11 Donna Reed - In Stock : 10
+1946 11 James Steward - In Stock : 10
+1971 2 Malcolm McDowell - In Stock : 8
+1971 3 Ruth Gordon - In Stock : 0
+
+
+----------Mouse Minnie - 1000 Transaction history ----------
+Borrowed Barry Levinson Good Morning Vietnam
+Borrowed 1940 5 Katherine Hepburn
+Borrowed Gus Van Sant Good Will Hunting
+Borrowed 1940 5 Cary Grant
+Borrowed 1971 3 Ruth Gordon
+
+----------Mouse Mickey - 1111 Transaction history ----------
+Borrowed 1971 2 Malcolm McDowell
+Borrowed 1971 3 Ruth Gordon
+Borrowed 1941 10 Humphrey Bogart
+Borrowed 1938 9 Cary Grant
+
+----------Frog Freddie - 5000 Transaction history ----------
+Borrowed 1971 3 Ruth Gordon
+Returned 1971 3 Ruth Gordon
+Borrowed 1971 3 Ruth Gordon
+Returned 1971 3 Ruth Gordon
+Borrowed 1971 3 Ruth Gordon
+Returned 1971 3 Ruth Gordon
+Borrowed 1971 3 Ruth Gordon
+
+----------Wacky Wally - 8000 Transaction history ----------
+Borrowed You've Got Mail 1998
+Returned You've Got Mail 1998
+Borrowed 1971 3 Ruth Gordon
+Borrowed 1971 3 Ruth Gordon
+Borrowed National Lampoon's Animal House 1978
+
+----------Pig Porky - 8888 Transaction history ----------
+Borrowed Annie Hall 1977
+Borrowed When Harry Met Sally 1989
+Borrowed Jonathan Demme Silence of the Lambs
+Borrowed Nancy Savoca Dogfight
+Borrowed 1971 3 Ruth Gordon
+
+----------Pig Porky - 8888 Transaction history ----------
+Borrowed Annie Hall 1977
+Borrowed When Harry Met Sally 1989
+Borrowed Jonathan Demme Silence of the Lambs
+Borrowed Nancy Savoca Dogfight
+Borrowed 1971 3 Ruth Gordon
+
